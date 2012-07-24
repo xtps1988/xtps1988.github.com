@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"render",
+				"render_404"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"body",
+				"body"
+			]
+		]
+	},
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 188.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"//192.168.0.6/workspace/wiki/pages/development-design/actionscript.textile",
+		"//192.168.0.6/workspace/wiki/pages/development-design/python.textile",
+		"//192.168.1.6/workspace/wiki/pages/software/linux.textile",
+		"//192.168.1.6/workspace/wiki/assets/style.css",
+		"//192.168.1.6/workspace/wiki/pages/development-design/web-front-end.textile",
+		"//192.168.1.6/workspace/wiki/pages/development-design/ruby.textile",
+		"//192.168.1.6/workspace/wiki/pages/development-design/objectivec.textile",
+		"//192.168.1.6/workspace/wiki/pages/software/vim.textile",
+		"//192.168.1.6/workspace/wiki/pages/software/ios.textile",
+		"/D/Program Files (x86)/Sublime Text 2/Data/Packages/User/Preferences.sublime-settings",
+		"//192.168.1.6/workspace/wiki/pages/development-design/php.textile",
+		"//192.168.1.6/workspace/wiki/pages/software/macos.textile",
+		"//192.168.1.6/workspace/wiki/pages/software/windows.textile",
+		"//192.168.1.6/workspace/yinse/app/assets/javascripts/admin.js",
+		"//192.168.1.6/workspace/yinse/app/views/admin/patches/_list.html.erb",
+		"//192.168.1.6/workspace/yinse/app/views/layouts/admin.html.erb",
+		"//192.168.1.6/workspace/yinse/app/controllers/admin/patches_controller.rb",
+		"//192.168.1.6/workspace/yinse/app/helpers/application_helper.rb",
+		"//192.168.1.6/workspace/yinse/app/models/patch.rb",
+		"//192.168.1.6/workspace/yinse/app/views/admin/patches/list.html.erb",
+		"//192.168.1.6/workspace/yinse/app/views/admin/patches/index.html.erb",
+		"//192.168.1.6/workspace/yinse/app/controllers/admin/application_controller.rb",
+		"//192.168.1.6/workspace/yinse/app/controllers/patches_controller.rb",
+		"//192.168.1.6/workspace/yinse/app/controllers/application_controller.rb",
+		"//192.168.1.6/workspace/yinse/test/functional/patches_controller_test.rb",
+		"/D/Program Files (x86)/Sublime Text 2/Data/Packages/Rails/noequal.sublime-snippet",
+		"//192.168.1.6/workspace/yinse/config/application.rb",
+		"//192.168.1.6/workspace/yinse/app/views/home/index.html.erb",
+		"//192.168.1.6/workspace/yinse/app/views/common/_index_nav.html.erb",
+		"//192.168.1.6/workspace/yinse/app/views/common/_patches_nav.html.erb",
+		"//192.168.1.6/workspace/yinse/app/views/common/_nav.html.erb",
+		"//192.168.1.6/workspace/yinse/app/assets/stylesheets/front.scss",
+		"/Users/bindiry/workspaces/yinse/app/assets/stylesheets/front.scss",
+		"/Users/bindiry/workspaces/yinse/app/views/layouts/admin.html.erb",
+		"/Volumes/programs/workspace/_python/gtpatches/templates/base.html",
+		"/Users/bindiry/workspaces/wiki/pages/software/linux.textile",
+		"/Users/bindiry/workspaces/wiki/pages/software/windows.textile",
+		"/Users/bindiry/workspaces/wiki/_posts/2011-11-28-ruby-on-rails-notes.textile",
+		"/Users/bindiry/workspaces/wiki/_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
+		"/Users/bindiry/workspaces/wiki/.gitignore",
+		"/Users/bindiry/workspaces/ruby/yinse/.gitignore",
+		"/Users/bindiry/Desktop/aaa.html",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"by",
+			"github",
+			"junnan",
+			"Open Sour",
+			"china",
+			"railscasts",
+			"/static/img/device_imgs",
+			"+l",
+			"l",
+			"ctrl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"devices",
+			"command"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"obj",
+				"pages/development-design/objectivec.textile"
+			],
+			[
+				"acio",
+				"pages/development-design/actionscript.textile"
+			],
+			[
+				"ruby",
+				"pages/development-design/ruby.textile"
+			],
+			[
+				"osx",
+				"pages/software/osx.textile"
+			],
+			[
+				"a",
+				"pages/development-design/actionscript.textile"
+			],
+			[
+				"end",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"ios",
+				"pages/software/ios.textile"
+			],
+			[
+				"vim",
+				"pages/software/vim.textile"
+			],
+			[
+				"linux",
+				"pages/software/linux.textile"
+			],
+			[
+				"php",
+				"pages/development-design/php.textile"
+			],
+			[
+				"ob",
+				"pages/development-design/objectivec.textile"
+			],
+			[
+				"mac",
+				"pages/software/macos.textile"
+			],
+			[
+				"win",
+				"pages/software/windows.textile"
+			],
+			[
+				"window",
+				"pages/software/windows.textile"
+			],
+			[
+				"maco",
+				"pages/software/macos.textile"
+			],
+			[
+				"windows",
+				"pages/software/windows.textile"
+			],
+			[
+				"admin.js",
+				"app/assets/javascripts/admin.js"
+			],
+			[
+				"adminpatcheslist",
+				"app/views/admin/patches/_list.html.erb"
+			],
+			[
+				"adminpacheslist",
+				"app/views/admin/patches/list.html.erb"
+			],
+			[
+				"adminpatchesindex",
+				"app/views/admin/patches/index.html.erb"
+			],
+			[
+				"admin.htm",
+				"app/views/layouts/admin.html.erb"
+			],
+			[
+				"adminapplicat",
+				"app/controllers/admin/application_controller.rb"
+			],
+			[
+				"adminpatchescontroll",
+				"app/controllers/admin/patches_controller.rb"
+			],
+			[
+				"applicationhelper",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"applicationcontr",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"patch.rb",
+				"app/models/patch.rb"
+			],
+			[
+				"patchesshow",
+				"app/views/patches/show.html.erb"
+			],
+			[
+				"patchescontroll",
+				"app/controllers/patches_controller.rb"
+			],
+			[
+				"pathces",
+				"test/functional/patches_controller_test.rb"
+			],
+			[
+				"aboutindex",
+				"app/views/about/index.html.erb"
+			],
+			[
+				"patcheslist",
+				"app/views/patches/list.html.erb"
+			],
+			[
+				"homeindex",
+				"app/views/home/index.html.erb"
+			],
+			[
+				"adminapp",
+				"app/controllers/admin/application_controller.rb"
+			],
+			[
+				"application.html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"_nav",
+				"app/views/common/_nav.html.erb"
+			],
+			[
+				"applicationhtml",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"deviceform",
+				"app/views/admin/devices/_form.html.erb"
+			],
+			[
+				"front",
+				"app/assets/stylesheets/front.scss"
+			],
+			[
+				"fron",
+				"app/assets/stylesheets/front.scss"
+			],
+			[
+				"front.scss",
+				"app/assets/stylesheets/front.scss"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"admin",
+				"app/views/layouts/admin.html.erb"
+			],
+			[
+				"admin.htl",
+				"app/views/layouts/admin.html.erb"
+			],
+			[
+				"linu",
+				"pages/software/linux.textile"
+			],
+			[
+				"ruby-",
+				"_posts/2011-11-28-ruby-on-rails-notes.textile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"//192.168.1.6/workspace/yinse/yinse.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true
+}

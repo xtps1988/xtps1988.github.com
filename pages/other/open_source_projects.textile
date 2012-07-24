@@ -1,0 +1,19 @@
+---
+layout: default
+title: Open Source Projects
+---
+
+h1. {{ page.title }}
+
+h3. Other
+* "ProtocolBuffers":http://code.google.com/apis/protocolbuffers/ - Google公司开发的一种数据描述语言，类似于XML能够将结构化数据序列化，可用于数据存储、通信协议等方面。
+** "Protocol Buffers Development Tools":http://code.google.com/p/protobuf-dt/ - 基于eclipse的ProtocolBuffers开发工具，需要Eclipse3.7及Xtext2.0
+* "MessagePack":http://msgpack.org - 官方宣称比ProtocolBuffers快4倍，比Json快10倍的序列化包
+* "FastDFS":http://code.google.com/p/fastdfs/ - 一款高性能分布式文件系统
+
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />

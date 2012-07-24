@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ht",
+				"html"
+			],
+			[
+				"body",
+				"body"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pages/development-design/database.textile",
+			"settings":
+			{
+				"buffer_size": 1369,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/software/osx.textile",
+			"settings":
+			{
+				"buffer_size": 9233,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/software/vim.textile",
+			"settings":
+			{
+				"buffer_size": 1566,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/development-design/web-front-end.textile",
+			"settings":
+			{
+				"buffer_size": 4773,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bindiry/workspaces/wiki/pages/other/website.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/php.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/web-front-end.textile",
+		"/Users/bindiry/workspaces/wiki/pages/software/vim.textile",
+		"/Users/bindiry/workspaces/wiki/pages/software/osx.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/objectivec.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/actionscript.textile",
+		"/Users/bindiry/workspaces/wiki/pages/other/open_source_projects.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/ruby.textile",
+		"/Users/bindiry/workspaces/wiki/pages/software/windows.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/python.textile",
+		"/Users/bindiry/workspaces/wiki/pages/software/sublime-text.textile",
+		"/Users/bindiry/workspaces/_examples/liarliar/good.txt",
+		"/Users/bindiry/workspaces/_examples/liarliar/liarliar",
+		"/Users/bindiry/workspaces/_examples/liarliar/goodmorning",
+		"/Users/bindiry/workspaces/_examples/liarliar/test",
+		"/Users/bindiry/workspaces/_examples/liarliar/helloworld",
+		"/Users/bindiry/workspaces/_examples/liarliar/test.html",
+		"/Users/bindiry/workspaces/wiki/pages/other/references.textile",
+		"/Users/bindiry/workspaces/wiki/_layouts/default.html",
+		"/Users/bindiry/Downloads/应聘列表.txt",
+		"/Users/bindiry/workspaces/wiki/pages/software/macos.textile",
+		"/Users/bindiry/workspaces/wiki/pages/other/kindle.textile",
+		"/Users/bindiry/workspaces/wiki/pages/software/ios.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/dotnet.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/csharp.textile",
+		"/Users/bindiry/workspaces/wiki/pages/development-design/database.textile",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/bindiry/workspaces/wiki/assets/style.css",
+		"/Users/bindiry/workspaces/yinse/app/assets/stylesheets/front.scss",
+		"/Users/bindiry/workspaces/yinse/app/views/layouts/admin.html.erb",
+		"/Volumes/programs/workspace/_python/gtpatches/templates/base.html",
+		"/Users/bindiry/workspaces/wiki/pages/software/linux.textile",
+		"/Users/bindiry/workspaces/wiki/_posts/2011-11-28-ruby-on-rails-notes.textile",
+		"/Users/bindiry/workspaces/wiki/_posts/2011-11-28-ruby-on-rails-learning-problem-notes.textile",
+		"/Users/bindiry/workspaces/wiki/.gitignore",
+		"/Users/bindiry/workspaces/ruby/yinse/.gitignore",
+		"/Users/bindiry/Desktop/aaa.html",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/bindiry/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"code4app",
+			"更简洁实用的批量图片处理",
+			"easy",
+			"command",
+			"find_under_expand",
+			"+d",
+			"+l",
+			"l",
+			"ctrl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"command"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pages/development-design/database.textile",
+					"settings":
+					{
+						"buffer_size": 1369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1176,
+								1176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 233.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pages/software/osx.textile",
+					"settings":
+					{
+						"buffer_size": 9233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1433,
+								1433
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 577.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pages/software/vim.textile",
+					"settings":
+					{
+						"buffer_size": 1566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1282,
+								1282
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 24.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pages/development-design/web-front-end.textile",
+					"settings":
+					{
+						"buffer_size": 4773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3259,
+								3259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Textile/Textile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 943.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"frene",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"vim",
+				"pages/software/vim.textile"
+			],
+			[
+				"osx",
+				"pages/software/osx.textile"
+			],
+			[
+				"data",
+				"pages/development-design/database.textile"
+			],
+			[
+				"action",
+				"pages/development-design/actionscript.textile"
+			],
+			[
+				"php",
+				"pages/development-design/php.textile"
+			],
+			[
+				"ruby",
+				"pages/development-design/ruby.textile"
+			],
+			[
+				"win",
+				"pages/software/windows.textile"
+			],
+			[
+				"pytho",
+				"pages/development-design/python.textile"
+			],
+			[
+				"python",
+				"pages/development-design/python.textile"
+			],
+			[
+				"front",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"obj",
+				"pages/development-design/objectivec.textile"
+			],
+			[
+				"open",
+				"pages/other/open_source_projects.textile"
+			],
+			[
+				"act",
+				"pages/development-design/actionscript.textile"
+			],
+			[
+				"subl",
+				"pages/software/sublime-text.textile"
+			],
+			[
+				"referen",
+				"pages/other/references.textile"
+			],
+			[
+				"cshar",
+				"pages/development-design/csharp.textile"
+			],
+			[
+				"macos",
+				"pages/software/macos.textile"
+			],
+			[
+				"io",
+				"pages/software/ios.textile"
+			],
+			[
+				"mac",
+				"pages/software/macos.textile"
+			],
+			[
+				"end",
+				"pages/development-design/web-front-end.textile"
+			],
+			[
+				"fron",
+				"app/assets/stylesheets/front.scss"
+			],
+			[
+				"front.scss",
+				"app/assets/stylesheets/front.scss"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"admin",
+				"app/views/layouts/admin.html.erb"
+			],
+			[
+				"admin.htl",
+				"app/views/layouts/admin.html.erb"
+			],
+			[
+				"linu",
+				"pages/software/linux.textile"
+			],
+			[
+				"ruby-",
+				"_posts/2011-11-28-ruby-on-rails-notes.textile"
+			],
+			[
+				"window",
+				"pages/software/windows.textile"
+			],
+			[
+				"maco",
+				"pages/software/macos.textile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/bindiry/workspaces/yinse/yinse_mac.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true
+}

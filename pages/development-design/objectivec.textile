@@ -1,0 +1,106 @@
+---
+layout: default
+title: ObjectiveC
+---
+
+h1. ObjectiveC
+
+h3. Utility Tools
+* "Objective-C Runtime Bowser":https://github.com/nst/RuntimeBrowser
+* "F-Script":http://www.fscript.org/
+* "AppleDoc":http://gentlebytes.com/appledoc/ - API文档生成器
+* "ConciseKit":https://github.com/petejkim/ConciseKit - 用Macros简化ObjectiveC开发
+* "CocosBuilder":http://cocosbuilder.com/ - Cocos场景编辑器
+* "Injection for Xcode":http://injectionforxcode.com/ - 可以让Xcode调试时直接修发看结果，不用Build
+
+h3. Utility Class
+* "AFNetworking":https://github.com/AFNetworking/AFNetworking - 好用的网络请求库 for iOS and OS X
+* *iOS*
+* "SSToolkit":http://sstoolk.it/ - 一些常用数据操作和 UI 部件的开源实现
+* "QuickDialog":https://github.com/escoz/QuickDialog - 简单易用的TableViews类
+* "Core Plot":http://code.google.com/p/core-plot/ - 图表库
+* "Tree20":https://github.com/facebook/three20 - Facebook发布的一套开源类库
+* "BaseKit":https://github.com/brunow/BaseKit - BaseKit is a set of IOS class to make your life easier.
+
+h3. Framewok
+* *Network*
+** "RestKit":http://restkit.org/ ("Github":https://github.com/RestKit/RestKit) - RESTful 工具包 RestKit for iOS and OS X
+* *Game*
+** "Cocos2D":http://www.cocos2d-iphone.org/
+
+h3. WebSite
+* "Code4App":http://code4app.com/ - 移动平台代码库
+* "Apple Sample Code":http://developer.apple.com/iphone/library/navigation/SampleCode.html - 官方示例代码库
+* "Cocoa-China代码例子区":http://www.cocoachina.com/bbs/thread.php?fid=19
+* "Github-Objective-C":https://github.com/search?language=Objective-C
+* "CocoaObjects":http://cocoaobjects.com/
+* "CocoaControls":http://www.cocoacontrols.com/ - 自定义UI控件库
+* "泰然教程":http://article.ityran.com/tutorials
+
+h3. UI设计相关网站
+* "iOS Inspires Me":http://iosinspires.me/
+* "UI4APP":http://ui4app.com/
+* "mokk":http://www.mokk.me/e - 在 Web 上 做出 ios UI 应用界面，并生成 URL 分享给他人
+* "DevRocket":http://devrocket.uiparade.com/ - 一款 Photoshop 插件，方便制作精美的 APP 原型
+* "Balsamiq Mockups":http://www.balsamiq.com/products/mockups - 手绘样式的 UI 设计图，用于生成原型草图
+* 手机 UI 相关
+** "Pttrns":http://pttrns.com/
+** "Patterns of Design":http://www.patternsofdesign.co.uk/
+** "Mobile UI Patterns":http://mobile-patterns.com/
+* iPhone UI 相关
+** "TapFancy":http://tapfancy.com/
+** "TappGala":http://www.tappgala.com/
+** "Well-Placed Pixels":http://wellplacedpixels.com/
+** "LovelyUI":http://www.lovelyui.com/
+** "Building iPhone Apps":http://buildingiphoneapps.posterous.com/
+* iPad UI 相关
+** "Landing Pad":http://landingpad.org/
+** "Stylish iPad Apps":http://stylishipadapps.tumblr.com/
+** "Stylapps":http://itunes.apple.com/us/app/stylapps/id444930066
+* iOS网站相关
+** "AppSites":http://www.appsites.com/
+* 素材相关
+** "iPad Sketch Elements AI":http://www.teehanlax.com/downloads/ipad-sketch-elements-ai/ - iPad 各种控件的素描效果(AI格式)
+** "iPhone Sketch Elements AI":http://www.teehanlax.com/downloads/iphone-sketch-elements-a/ - iPhone 的同上
+** "iPhone 4 GUI PSD (Retina Display)":http://www.teehanlax.com/downloads/iphone-4-guid-psd-retina-display/ - iPhone4的控件集合（支持Retina），PSD格式
+** "iOS5 GUI PSD":http://www.teehanlax.com/downloads/ios-5-gui-psd-iphone-4s/ - iPhone5的控件集合，PSD格式
+** "iPad GUI PSD (Retina Display)":http://www.teehanlax.com/downloads/ipad-gui-psd-retina-display/ - iPad的控件集合（支持Retina），PSD格式
+** "iPhone 4 外观 PSD":http://zandog.deviantart.com/art/Apple-iPhone-4S-PSD-161681253? - 在展示你app的截图时，配上真实的iPhone图，会让你的app更加好看
+** "iPad 外观 PSD":http://www.officialpsds.com/iPad-Package-PSD42155.html
+** "160款免费iPhone Tool Bar icon图标":http://www.pixelpressicons.com/?p=108
+** "64款免费iPhone Tool Bar icon图标":http://app-bits.com/downloads/iphone-toolbar-icon-set.html
+** "30个免费iPhone Tab Bar上的icon图标":http://www.dezinerfolio.com/freebie/30-free-vector-icons
+** "60个免费iOS图标icon":http://www.iconsweets.com/
+** "Touchscreen Hand Gestures":http://graffletopia.com/stencils/439 - 手势图
+** "gesturecons":http://gesturecons.com/ - 同上
+** "iOS5字体集合（包括iPhone和iPad）":http://iosfonts.com/
+
+h3. Open Source Projects
+
+* *Mac OS X*
+** "GoAgentX":https://github.com/ohdarling/GoAgentX
+
+* *iOS*
+** "Tiny Wings":https://github.com/haqu/tiny-wings
+
+h3. API
+* "Google Reader API":http://code.google.com/p/r2-release/wiki/GoogleReaderApi
+
+h3. References
+
+* *iOS*
+** "iOS Dev Weekly":http://iosdevweekly.com/
+** "iOS Design Weekly":http://iosdesign.co/
+
+* "XCode快捷键图示":/uploads/xcode.jpg
+
+h3. Other
+
+* *Downloads*
+** "iMZDL":http://imzdl.com/ - 苹果官方相关软件下载
+
+
+
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
